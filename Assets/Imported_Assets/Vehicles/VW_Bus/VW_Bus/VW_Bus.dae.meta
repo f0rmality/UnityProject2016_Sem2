@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 6bdcf405960f3814c91538b03429b5c9
+timeCreated: 1481259378
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: door_front_left
+    100004: door_front_right
+    100006: gear_shift
+    100008: root_bus
+    100010: root_ground
+    100012: //RootNode
+    100014: VW_bus
+    100016: VWBus
+    100018: WBusGlass
+    100020: wheel
+    100022: wheel_front_left
+    100024: wheel_front_right
+    100026: wheel_front_suspension_left
+    100028: wheel_front_suspension_right
+    100030: wheel_rear_left
+    100032: wheel_rear_right
+    100034: wheel_rear_suspension_left
+    100036: wheel_rear_suspension_right
+    400000: Armature
+    400002: door_front_left
+    400004: door_front_right
+    400006: gear_shift
+    400008: root_bus
+    400010: root_ground
+    400012: //RootNode
+    400014: VW_bus
+    400016: VWBus
+    400018: WBusGlass
+    400020: wheel
+    400022: wheel_front_left
+    400024: wheel_front_right
+    400026: wheel_front_suspension_left
+    400028: wheel_front_suspension_right
+    400030: wheel_rear_left
+    400032: wheel_rear_right
+    400034: wheel_rear_suspension_left
+    400036: wheel_rear_suspension_right
+    4300000: VWBus
+    4300002: WBusGlass
+    9500000: //RootNode
+    13700000: VWBus
+    13700002: WBusGlass
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

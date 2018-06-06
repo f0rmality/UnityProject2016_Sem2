@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 2430cdd992ad2b14e8b9333322646cc1
+timeCreated: 1481261130
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrel_destroyed_house:barrel_destroyed_house:headusOBJexport_barrel_destroyed_house:barrel_destroyed_house:polySurface2_barrel_destroyed_house:barrel_destroyed_house:polySurface1
+    100002: base:base
+    100004: base:corner_bean
+    100006: base:corner_bean1
+    100008: base:corner_bean2
+    100010: base:corner_bean3
+    100012: base:corner_bean4
+    100014: beam:corner_bean
+    100016: //RootNode
+    100018: door1
+    100020: door:door
+    100022: frontwall:front_wall
+    100024: ground:pPlane1
+    100026: left_side_wall:left_side_wall
+    100028: rear_wall:rear_wall
+    100030: roof:roof
+    100032: tree37_tree38_tree39_tree40_tree41_tree42_tree43_tree44
+    100034: tree45_tree46_tree47_tree48_tree49_tree50_tree51
+    100036: tree52
+    100038: tree53
+    100040: tree54
+    100042: tree55
+    100044: tree56
+    100046: tree57
+    100048: tree58
+    100050: tree59
+    100052: tree60
+    100054: tree_tree1_tree2_tree3_tree4_tree6_tree8_tree9_tree10_tree14_tree15_tree16_tree18_tree19_tree20_tree21_tree24_tree25_tree26_tree27_tree28_tree30_tree31_tree32_tree33_tree34_tree35_tree36
+    100056: tyre:fePolyTube
+    400000: barrel_destroyed_house:barrel_destroyed_house:headusOBJexport_barrel_destroyed_house:barrel_destroyed_house:polySurface2_barrel_destroyed_house:barrel_destroyed_house:polySurface1
+    400002: base:base
+    400004: base:corner_bean
+    400006: base:corner_bean1
+    400008: base:corner_bean2
+    400010: base:corner_bean3
+    400012: base:corner_bean4
+    400014: beam:corner_bean
+    400016: //RootNode
+    400018: door1
+    400020: door:door
+    400022: frontwall:front_wall
+    400024: ground:pPlane1
+    400026: left_side_wall:left_side_wall
+    400028: rear_wall:rear_wall
+    400030: roof:roof
+    400032: tree37_tree38_tree39_tree40_tree41_tree42_tree43_tree44
+    400034: tree45_tree46_tree47_tree48_tree49_tree50_tree51
+    400036: tree52
+    400038: tree53
+    400040: tree54
+    400042: tree55
+    400044: tree56
+    400046: tree57
+    400048: tree58
+    400050: tree59
+    400052: tree60
+    400054: tree_tree1_tree2_tree3_tree4_tree6_tree8_tree9_tree10_tree14_tree15_tree16_tree18_tree19_tree20_tree21_tree24_tree25_tree26_tree27_tree28_tree30_tree31_tree32_tree33_tree34_tree35_tree36
+    400056: tyre:fePolyTube
+    2300000: barrel_destroyed_house:barrel_destroyed_house:headusOBJexport_barrel_destroyed_house:barrel_destroyed_house:polySurface2_barrel_destroyed_house:barrel_destroyed_house:polySurface1
+    2300002: base:base
+    2300004: base:corner_bean
+    2300006: base:corner_bean1
+    2300008: base:corner_bean2
+    2300010: base:corner_bean3
+    2300012: base:corner_bean4
+    2300014: beam:corner_bean
+    2300016: door1
+    2300018: door:door
+    2300020: frontwall:front_wall
+    2300022: ground:pPlane1
+    2300024: left_side_wall:left_side_wall
+    2300026: rear_wall:rear_wall
+    2300028: roof:roof
+    2300030: tree37_tree38_tree39_tree40_tree41_tree42_tree43_tree44
+    2300032: tree45_tree46_tree47_tree48_tree49_tree50_tree51
+    2300034: tree52
+    2300036: tree53
+    2300038: tree54
+    2300040: tree55
+    2300042: tree56
+    2300044: tree57
+    2300046: tree58
+    2300048: tree59
+    2300050: tree60
+    2300052: tree_tree1_tree2_tree3_tree4_tree6_tree8_tree9_tree10_tree14_tree15_tree16_tree18_tree19_tree20_tree21_tree24_tree25_tree26_tree27_tree28_tree30_tree31_tree32_tree33_tree34_tree35_tree36
+    2300054: tyre:fePolyTube
+    3300000: barrel_destroyed_house:barrel_destroyed_house:headusOBJexport_barrel_destroyed_house:barrel_destroyed_house:polySurface2_barrel_destroyed_house:barrel_destroyed_house:polySurface1
+    3300002: base:base
+    3300004: base:corner_bean
+    3300006: base:corner_bean1
+    3300008: base:corner_bean2
+    3300010: base:corner_bean3
+    3300012: base:corner_bean4
+    3300014: beam:corner_bean
+    3300016: door1
+    3300018: door:door
+    3300020: frontwall:front_wall
+    3300022: ground:pPlane1
+    3300024: left_side_wall:left_side_wall
+    3300026: rear_wall:rear_wall
+    3300028: roof:roof
+    3300030: tree37_tree38_tree39_tree40_tree41_tree42_tree43_tree44
+    3300032: tree45_tree46_tree47_tree48_tree49_tree50_tree51
+    3300034: tree52
+    3300036: tree53
+    3300038: tree54
+    3300040: tree55
+    3300042: tree56
+    3300044: tree57
+    3300046: tree58
+    3300048: tree59
+    3300050: tree60
+    3300052: tree_tree1_tree2_tree3_tree4_tree6_tree8_tree9_tree10_tree14_tree15_tree16_tree18_tree19_tree20_tree21_tree24_tree25_tree26_tree27_tree28_tree30_tree31_tree32_tree33_tree34_tree35_tree36
+    3300054: tyre:fePolyTube
+    4300000: barrel_destroyed_house:barrel_destroyed_house:headusOBJexport_barrel_destroyed_house:barrel_destroyed_house:polySurface2_barrel_destroyed_house:barrel_destroyed_house:polySurface1
+    4300002: base:base
+    4300004: base:corner_bean
+    4300006: base:corner_bean1
+    4300008: base:corner_bean2
+    4300010: base:corner_bean3
+    4300012: base:corner_bean4
+    4300014: beam:corner_bean
+    4300016: door1
+    4300018: door:door
+    4300020: frontwall:front_wall
+    4300022: ground:pPlane1
+    4300024: left_side_wall:left_side_wall
+    4300026: rear_wall:rear_wall
+    4300028: roof:roof
+    4300030: tree37_tree38_tree39_tree40_tree41_tree42_tree43_tree44
+    4300032: tree45_tree46_tree47_tree48_tree49_tree50_tree51
+    4300034: tree52
+    4300036: tree53
+    4300038: tree54
+    4300040: tree55
+    4300042: tree56
+    4300044: tree57
+    4300046: tree58
+    4300048: tree59
+    4300050: tree60
+    4300052: tree_tree1_tree2_tree3_tree4_tree6_tree8_tree9_tree10_tree14_tree15_tree16_tree18_tree19_tree20_tree21_tree24_tree25_tree26_tree27_tree28_tree30_tree31_tree32_tree33_tree34_tree35_tree36
+    4300054: tyre:fePolyTube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
